@@ -1,0 +1,1 @@
+Usage of Sequential Input File enumerator to calculate the average of the temperatures in a file.
