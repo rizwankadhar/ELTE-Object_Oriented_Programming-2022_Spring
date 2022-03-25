@@ -1,0 +1,3 @@
+Consider the previous input file with the following modifications: Several stations can make measurements of the same blackhole; thus, the lines of the file consist of the followings: blackhole ID, station ID, measurements. Like this, measurements of one blackhole can be present in more than one line, but measurements of one station of one blackhole can be found in only one line. The file is ordered by blackhole ID. 
+
+List the average weight of those blackholes that were measured to be closer than 2700 thousand light years by every station (that has made measurements of that blackhole) at least once. Average weight is calculated from the last measured weights made by the stations.
