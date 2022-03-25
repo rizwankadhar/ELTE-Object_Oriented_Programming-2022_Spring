@@ -1,0 +1,5 @@
+Carl rabbit 164
+Carl bear 146
+Joseph rabbit 256
+Steve deer 100
+Steve bear 300
