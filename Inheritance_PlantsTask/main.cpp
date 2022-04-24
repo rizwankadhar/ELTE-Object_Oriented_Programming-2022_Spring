@@ -19,7 +19,6 @@ int main()
     {
         cout << i << " ";
     }
-
     Potatoe::destroy();
     Rose::destroy();
 	return 0;
